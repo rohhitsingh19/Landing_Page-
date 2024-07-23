@@ -1,6 +1,6 @@
 # LandingPage
 
-Octanet Webdevelopment internship
+Teach Stack : HTML, CSS
 
 # FIT GYM
 
